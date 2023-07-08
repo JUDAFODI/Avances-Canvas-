@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 7c42b42687fee6149b68ca936418bb54
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oolong Title Screen_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 651
+        width: 137
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f908b5d3203764945a74b5922bdc1842
+      internalID: 423470506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 642
+        width: 131
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549a1da7f26e3294babe508b96528ffc
+      internalID: 950905648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 628
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c064d3c2858209b4198acde3efdbf16a
+      internalID: 680686175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 652
+        width: 138
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7cfe9e4248d09448772a373b34c178
+      internalID: 637719894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_4
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 644
+        width: 123
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6109f4571e0e2b44aaad72330e403269
+      internalID: -1934805147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 628
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a3f313faf80854abe39f41be0115fa
+      internalID: 598737597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 628
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f80bb43f2a752a4e84545a49d209f79
+      internalID: -169905465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_7
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 628
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4def67ab67b67b543aa8a9260e5d5d1f
+      internalID: 193613045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_8
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 628
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f0a919b190284183cd3b5f41a3dfd
+      internalID: -1432457547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 452
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0461b379616a27349843610ac2a9af9d
+      internalID: 967928647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 452
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07c0aa63b5519498bdc8f430efdbad
+      internalID: 1646325840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 452
+        width: 129
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c6b25c70cc2824fb2a6a2215bf8a3d
+      internalID: -242864022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 452
+        width: 134
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc14bffcbb2036428c45956bba6b62e
+      internalID: 350873509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_13
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 452
+        width: 135
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe76d164ab52a44fa3703af3b96934d
+      internalID: -1336668024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 276
+        width: 135
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f86ef5af3bc12428d5c3ce186c1194
+      internalID: 469672747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 276
+        width: 124
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ee5158b2d1d034393f23b6ca213bd1
+      internalID: 1375132749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 276
+        width: 114
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c351136981f4f14b86afac8d7e75b5f
+      internalID: 1588381553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_17
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 297
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb09f43b89e4b04d93ba2423f540296
+      internalID: -1794164469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_18
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 276
+        width: 129
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b121f733f83346d43862857dbbf643a4
+      internalID: -1244939700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 100
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb8d7a00a9ba6a4cb01513c08306a4c
+      internalID: 1375014120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 100
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3ab0601b85e1c40a37291beccea9cc
+      internalID: 104576557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 119
+        width: 116
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf84662bbe8278499d0385ac32970e2
+      internalID: 1341651426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 100
+        width: 113
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a323e68979b519499e8fdb8ae1eec85
+      internalID: 172973657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oolong Title Screen_23
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 100
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d178532c9e8ab4786d370035692443
+      internalID: 4186305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Oolong Title Screen_0: 423470506
+      Oolong Title Screen_1: 950905648
+      Oolong Title Screen_10: 1646325840
+      Oolong Title Screen_11: -242864022
+      Oolong Title Screen_12: 350873509
+      Oolong Title Screen_13: -1336668024
+      Oolong Title Screen_14: 469672747
+      Oolong Title Screen_15: 1375132749
+      Oolong Title Screen_16: 1588381553
+      Oolong Title Screen_17: -1794164469
+      Oolong Title Screen_18: -1244939700
+      Oolong Title Screen_19: 1375014120
+      Oolong Title Screen_2: 680686175
+      Oolong Title Screen_20: 104576557
+      Oolong Title Screen_21: 1341651426
+      Oolong Title Screen_22: 172973657
+      Oolong Title Screen_23: 4186305
+      Oolong Title Screen_24: 1383450946
+      Oolong Title Screen_25: 1740103813
+      Oolong Title Screen_26: -2130462992
+      Oolong Title Screen_27: 1485157939
+      Oolong Title Screen_28: -35148916
+      Oolong Title Screen_29: 1290818544
+      Oolong Title Screen_3: 637719894
+      Oolong Title Screen_30: 817404850
+      Oolong Title Screen_31: -1384547367
+      Oolong Title Screen_32: -1383498294
+      Oolong Title Screen_33: 1730060586
+      Oolong Title Screen_34: 191976137
+      Oolong Title Screen_35: -1690795791
+      Oolong Title Screen_36: -1292255930
+      Oolong Title Screen_37: 1056735094
+      Oolong Title Screen_38: -1955223909
+      Oolong Title Screen_39: 669334912
+      Oolong Title Screen_4: -1934805147
+      Oolong Title Screen_40: -569798620
+      Oolong Title Screen_41: -1348296185
+      Oolong Title Screen_42: 607828457
+      Oolong Title Screen_43: 2126963847
+      Oolong Title Screen_5: 598737597
+      Oolong Title Screen_6: -169905465
+      Oolong Title Screen_7: 193613045
+      Oolong Title Screen_8: -1432457547
+      Oolong Title Screen_9: 967928647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
